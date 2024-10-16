@@ -52,7 +52,7 @@ export default function PlayerJM() {
             </CardHeader>
           
             <CardContent className='rounded-md'>
-              <ReactPlayer className='rounded-md' url={url} autoplay controls height={200} width={400} />
+              <ReactPlayer className='rounded-md' url={url} controls height={200} width={400} />
             </CardContent>
 
             </div>
