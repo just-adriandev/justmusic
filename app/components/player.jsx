@@ -67,6 +67,8 @@ export default function PlayerJM() {
               <ul className='text-primary-foreground'>
                 <li className='text-2xl font-semibold'>https://www.youtube.com/watch?v=</li>
                 <li className='text-2xl font-semibold'>https://youtu.be/</li>
+                <li className='text-2xl font-semibold'>https://youtu.be/</li>
+                <li className='text-2xl font-semibold'>https://youtu.be/</li>
               </ul>
             </CardContent>
             </CardHeader>
